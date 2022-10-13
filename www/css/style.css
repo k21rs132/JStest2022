@@ -12,6 +12,7 @@ html,body {
   margin: 5px;
   height: 40%;
   background: white;
+  width: 100%;
 }
 
 #btn {
